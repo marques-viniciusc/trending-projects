@@ -40,7 +40,7 @@ pip install requests beautifulsoup4 pandas matplotlib
 ```
 Execute o script Python:
 ```bash
-python trending_scraper.py
+python trending-scraper.py
 ```
 O gráfico de pizza com a distribuição de linguagens será exibido e o arquivo github.csv será gerado no diretório.
 
@@ -51,5 +51,5 @@ Exemplo de visualização:
 ## ⚠️ Considerações
 O arquivo robots.txt do GitHub permite que a página /trending seja acessada e indexada por web crawlers, portanto, este projeto está em conformidade com as políticas do site.
 
-📄 Licença
+## 📄 Licença
 Este projeto é de uso livre para fins educativos e de estudo. Sinta-se à vontade para usar e modificar conforme necessário.
