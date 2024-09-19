@@ -29,19 +29,17 @@ Cria um gráfico de pizza com a distribuição das linguagens dos projetos extra
 🔧 Como Rodar o Projeto
 Clone o repositório:
 
-bash
-Copy code
+```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 Instale as dependências necessárias:
-
-bash
-Copy code
+```bash
 pip install requests beautifulsoup4 pandas matplotlib
+```
 Execute o script Python:
-
-bash
-Copy code
+```bash
 python trending_scraper.py
+```
 O gráfico de pizza com a distribuição de linguagens será exibido e o arquivo github.csv será gerado no diretório.
 
 🎯 Resultado
